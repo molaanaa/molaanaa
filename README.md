@@ -1,53 +1,89 @@
-# Hello there, I'm Mohsen (Molaanaa) 👋
+<div align="center">
 
-### Founder of Rayan Pardaz Molaanaa | Native Mobile Architect (Android & iOS)
+# Rayan Pardaz Molaanaa
 
-I am the founder and lead developer at **Rayan Pardaz Molaanaa**, a software engineering firm dedicated to building secure, high-performance decentralized applications.
+### Pioneering Secure, Native Decentralized Architectures
 
-I specialize in **Native Mobile Development**, crafting pixel-perfect applications for both the **Android** and **Apple** ecosystems. My philosophy is simple: uncompromising performance and security through native code—**Kotlin** for Android and **Swift** for iOS.
+[![Website](https://img.shields.io/badge/Website-molaanaa.com-0056D2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://molaanaa.com)
+[![Contact](https://img.shields.io/badge/Contact-Business_Inquiries-101010?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mma@molaanaa.com)
+[![Location](https://img.shields.io/badge/Location-Tehran-red?style=for-the-badge&logo=google-maps&logoColor=white)](https://molaanaa.com)
+
+<br/>
+
+</div>
+
+---
+
+## 🏢 About Us
+
+**Rayan Pardaz Molaanaa** is a specialized software engineering firm dedicated to building high-performance decentralized applications (dApps). We refuse to compromise on user experience.
+
+While the industry trends toward cross-platform frameworks, we specialize in **Native Mobile Architecture**. We believe that financial tools require the hardware-level optimization and cryptographic security that only native **Kotlin (Android)** and **Swift (iOS)** can provide.
+
+Our mission is to bridge the gap between complex blockchain backends and elegant, pixel-perfect mobile interfaces.
 
 ---
 
 ## 🚀 Flagship Product: BABA Wallet
+### *The Premier Non-Custodial Interface for the Credits Blockchain*
 
-**The Premier Non-Custodial Wallet for the Credits Blockchain**
+BABA Wallet represents the culmination of our engineering philosophy. It is the first fully native, non-custodial wallet designed specifically for the Credits ecosystem, granting users absolute control over their digital assets without intermediaries.
 
-BABA Wallet is the cornerstone project of Rayan Pardaz Molaanaa. It fills a critical gap in the Credits ecosystem by providing a secure, user-centric interface for managing crypto assets without intermediaries.
-
-**Now a fully cross-platform native experience:**
-
-* **📱 Android:** Built with **Kotlin** & **Jetpack Compose** for modern, reactive UI.
-* **🍏 iOS:** Built with **Swift** for a smooth, optimized experience on iPhone.
-* **🔐 Security First:** Non-custodial architecture ensures users retain absolute control of their private keys on any device.
-* **🌍 Global Reach:** Featuring multi-language support (English, Persian, Russian, Spanish).
+| Platform | Technology Stack | Key Characteristics |
+| :--- | :--- | :--- |
+| **🤖 Android** | **Kotlin** + Jetpack Compose | Reactive UI, Material Design 3, Coroutines |
+| **🍎 iOS** | **Swift** + UIKit/SwiftUI | Human Interface Guidelines compliance, Metal optimization |
+| **🛡️ Security** | **Non-Custodial** | Client-side key generation, AES encryption |
+| **🌐 Global** | **Localization** | Native support for English, Persian, Russian, & Spanish |
 
 ---
 
-## 🛠 Technical Expertise
+## 🛠 Engineering Standards & Tech Stack
 
-My work bridges the gap between complex blockchain backends and elegant mobile interfaces.
+We maintain rigorous coding standards to ensure scalability and security. Our repositories reflect a commitment to clean code and modern architecture.
 
-### Mobile Development
-| Android Ecosystem | iOS Ecosystem |
-| :--- | :--- |
-| **Kotlin** | **Swift** |
-| Jetpack Compose | Native UI / UIKit |
-| Android SDK | iOS SDK / Xcode |
-| MVVM / Clean Arch | MVC / MVVM |
+### Mobile Ecosystem
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Apple](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+* **Architectural Patterns:** MVVM (Model-View-ViewModel), Clean Architecture.
+* **UI Toolkits:** Jetpack Compose (Android), UIKit/SwiftUI (iOS).
+* **Performance:** Multi-threaded background processing for seamless blockchain synchronization.
 
 ### Backend & Infrastructure
-* **Runtime:** Node.js (Express.js)
-* **Databases:** MongoDB, Redis
-* **DevOps:** Docker, LinuxVPS Server Management, Cloudflare
-* **Blockchain:** Credits API Integration
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+* **Runtime:** Node.js (Express.js) focused on low-latency API responses.
+* **Data Persistence:** MongoDB for flexible schema management; Redis for high-speed caching.
+* **DevOps:** Containerized deployment via Docker; managed Linux VPS infrastructure.
+* **Blockchain Integration:** Direct interaction with Credits API Nodes.
 
 ---
 
-## 🌐 Connect & Discover
+## 👨‍💻 Leadership
 
-I am always open to discussing blockchain innovation, native mobile architecture, and the future of Rayan Pardaz Molaanaa.
+**Mohsen (Molaanaa)**
+*Founder & Lead Architect*
 
-* **Official Website:** [molaanaa.com](https://molaanaa.com)
-* **CEO Email:** mma@molaanaa.com
-* **Business Identity:** Rayan Pardaz Molaanaa
-* **Location:** Tehran / Expanding
+Rayan Pardaz Molaanaa is led by Mohsen, a specialist in native mobile development and blockchain integration. His focus on "Security First" architecture drives the company's technical direction.
+
+---
+
+<div align="center">
+
+### Connect With Us
+
+*Open for collaboration on Blockchain Innovation and FinTech Solutions.*
+
+[**🌐 Visit molaanaa.com**](https://molaanaa.com)
+
+<br />
+
+###### © 2025 Rayan Pardaz Molaanaa. All Rights Reserved.
+
+</div>
