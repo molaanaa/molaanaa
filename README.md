@@ -48,6 +48,6 @@ My work bridges the gap between complex blockchain backends and elegant mobile i
 I am always open to discussing blockchain innovation, native mobile architecture, and the future of Rayan Pardaz Molaanaa.
 
 * **Official Website:** [molaanaa.com](https://molaanaa.com)
-* **Contact Me Directly:** [My Business Email Address](mma@molaanaa.com)
+* **CEO Email:** mma@molaanaa.com
 * **Business Identity:** Rayan Pardaz Molaanaa
 * **Location:** Tehran / Expanding
