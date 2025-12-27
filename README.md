@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.png" alt="Rayan Pardaz Molaanaa Logo" width="200" />
+<img src="logo.png" alt="Rayan Pardaz Molaanaa Logo" width="150" />
 
 # Rayan Pardaz Molaanaa
 
