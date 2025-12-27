@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="logo.png" alt="Rayan Pardaz Molaanaa Logo" width="200" />
+
 # Rayan Pardaz Molaanaa
 
 ### Pioneering Secure, Native Decentralized Architectures
