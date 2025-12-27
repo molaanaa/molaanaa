@@ -69,10 +69,10 @@ We maintain rigorous coding standards to ensure scalability and security. Our re
 
 ## 👨‍💻 Leadership
 
-**Mohsen (Molaanaa)**
+**Mohsen Ahmadi (Molaanaa)**
 *Founder & Lead Architect*
 
-Rayan Pardaz Molaanaa is led by Mohsen, a specialist in native mobile development and blockchain integration. His focus on "Security First" architecture drives the company's technical direction.
+Rayan Pardaz Molaanaa is led by Mohsen Ahmadi, a specialist in native mobile development and blockchain integration. His focus on "Security First" architecture drives the company's technical direction.
 
 ---
 
