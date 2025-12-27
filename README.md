@@ -1,4 +1,4 @@
-# Hi there, I'm Mohsen (Molaanaa) 👋
+# Hello there, I'm Mohsen (Molaanaa) 👋
 
 ### Founder of Rayan Pardaz Molaanaa | Native Mobile Architect (Android & iOS)
 
@@ -38,7 +38,7 @@ My work bridges the gap between complex blockchain backends and elegant mobile i
 ### Backend & Infrastructure
 * **Runtime:** Node.js (Express.js)
 * **Databases:** MongoDB, Redis
-* **DevOps:** Docker, Contabo VPS, Cloudflare
+* **DevOps:** Docker, LinuxVPS Server Management, Cloudflare
 * **Blockchain:** Credits API Integration
 
 ---
@@ -48,5 +48,6 @@ My work bridges the gap between complex blockchain backends and elegant mobile i
 I am always open to discussing blockchain innovation, native mobile architecture, and the future of Rayan Pardaz Molaanaa.
 
 * **Official Website:** [molaanaa.com](https://molaanaa.com)
+* **Contact Me Directly:** [My Business Email Address](mma@molaanaa.com)
 * **Business Identity:** Rayan Pardaz Molaanaa
 * **Location:** Tehran / Expanding
