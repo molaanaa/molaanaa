@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="logo.png" alt="Rayan Pardaz Molaanaa Logo" width="110" />
+<img src="logo.png" alt="Rayan Afzar Molaanaa Logo" width="110" />
 
-# Rayan Pardaz Molaanaa
+# Rayan Afzar Molaanaa
 
 ### Pioneering Secure, Native Decentralized Architectures
 
@@ -18,7 +18,7 @@
 
 ## 🏢 About Us
 
-**Rayan Pardaz Molaanaa** is a specialized software engineering firm dedicated to building high-performance decentralized applications (dApps). We refuse to compromise on user experience.
+**Rayan Afzar Molaanaa** is a specialized software engineering firm dedicated to building high-performance decentralized applications (dApps). We refuse to compromise on user experience.
 
 While the industry trends toward cross-platform frameworks, we specialize in **Native Mobile Architecture**. We believe that financial tools require the hardware-level optimization and cryptographic security that only native **Kotlin (Android)** and **Swift (iOS)** can provide.
 
@@ -72,7 +72,7 @@ We maintain rigorous coding standards to ensure scalability and security. Our re
 **Mohsen Ahmadi (Molaanaa)**
 *Founder & Lead Architect*
 
-Rayan Pardaz Molaanaa is led by Mohsen Ahmadi, a specialist in native mobile development and blockchain integration. His focus on "Security First" architecture drives the company's technical direction.
+Rayan Afzar Molaanaa is led by Mohsen Ahmadi, a specialist in native mobile development and blockchain integration. His focus on "Security First" architecture drives the company's technical direction.
 
 ---
 
@@ -86,6 +86,6 @@ Rayan Pardaz Molaanaa is led by Mohsen Ahmadi, a specialist in native mobile dev
 
 <br />
 
-###### © 2025 Rayan Pardaz Molaanaa. All Rights Reserved.
+###### © 2025 Rayan Afzar Molaanaa. All Rights Reserved.
 
 </div>
