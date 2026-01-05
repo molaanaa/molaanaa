@@ -86,6 +86,6 @@ Rayan Afzar Molaanaa is led by Mohsen Ahmadi, a specialist in native mobile deve
 
 <br />
 
-###### © 2025 Rayan Afzar Molaanaa. All Rights Reserved.
+###### © 2026 Rayan Afzar Molaanaa. All Rights Reserved.
 
 </div>
