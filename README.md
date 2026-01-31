@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="logo.png" alt="Rayan Afzar Molaanaa Logo" width="110" />
+<img src="logo.png" alt="Rayan Afzar Molaanaa - Official Logo" width="110" />
 
 # Rayan Afzar Molaanaa
 
 ### Pioneering Secure, Native Decentralized Architectures
 
-[![Website](https://img.shields.io/badge/Website-molaanaa.com-0056D2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://molaanaa.com)
+[![Website](https://img.shields.io/badge/Official_Website-molaanaa.com-0056D2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://molaanaa.com)
 [![Contact](https://img.shields.io/badge/Contact-Business_Inquiries-101010?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mma@molaanaa.com)
 [![Location](https://img.shields.io/badge/Location-Tehran-red?style=for-the-badge&logo=google-maps&logoColor=white)](https://molaanaa.com)
+
+**Official Home of BABA Wallet:** [https://molaanaa.com](https://molaanaa.com)
 
 <br/>
 
@@ -29,14 +31,14 @@ Our mission is to bridge the gap between complex blockchain backends and elegant
 ## 🚀 Flagship Product: BABA Wallet
 ### *The Premier Non-Custodial Interface for the Credits Blockchain*
 
-BABA Wallet represents the culmination of our engineering philosophy. It is the first fully native, non-custodial wallet designed specifically for the Credits ecosystem, granting users absolute control over their digital assets without intermediaries.
+[**Download BABA Wallet**](https://molaanaa.com) represents the culmination of our engineering philosophy. It is the first fully native, non-custodial wallet designed specifically for the Credits ecosystem, granting users absolute control over their digital assets without intermediaries.
 
 | Platform | Technology Stack | Key Characteristics |
 | :--- | :--- | :--- |
 | **🤖 Android** | **Kotlin** + Jetpack Compose | Reactive UI, Material Design 3, Coroutines |
 | **🍎 iOS** | **Swift** + UIKit/SwiftUI | Human Interface Guidelines compliance, Metal optimization |
 | **🛡️ Security** | **Non-Custodial** | Client-side key generation, AES encryption |
-| **🌐 Global** | **Localization** | Native support for English, Persian, Russian, & Spanish |
+| **🌐 Global** | **Localization** | Native support for English, Persian (بابا ولت), Russian, & Spanish |
 
 ---
 
